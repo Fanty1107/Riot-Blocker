@@ -4,6 +4,12 @@ Uma ferramenta com interface gráfica desenvolvida em Python para bloquear e des
 
 Este projeto foi criado com o objetivo principal de bloquear jogos competitivos (como League of Legends ou Valorant) para foco e produtividade, utilizando uma abordagem 100% segura contra sistemas anti-cheat de nivel de kernel (como o Riot Vanguard). Em vez de manipular processos ou a memoria do jogo, a ferramenta atua diretamente no Firewall do Windows.
 
+## Download
+
+Para baixar a versão compilada e pronta para uso (sem necessidade de instalar o Python), acesse o link abaixo:
+
+[Baixar a versão mais recente (.exe)](https://github.com/Fanty1107/Riot-Blocker/releases/latest)
+
 ## Por que usar este metodo?
 Tentativas de bloquear executaveis de jogos utilizando manipulacao do registro do Windows (como "Image File Execution Options") ou fechamento forcado de processos podem ser interpretadas por sistemas anti-cheat modernos como injeção ou software malicioso, resultando em banimento permanente de conta ou hardware (HWID). 
 
